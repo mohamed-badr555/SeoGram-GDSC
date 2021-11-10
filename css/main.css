@@ -254,7 +254,7 @@ margin-bottom: 5px;
     position: absolute;
     bottom:60px;
     right: 60px;
-    display:none;
+    display:block;
     z-index: 80000000;
 }
 .arrow-top{
