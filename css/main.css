@@ -301,13 +301,13 @@ color:#cccc;
 .seo .col-3 .botton{
     margin-top:20px;
     left:20%;
-    transform:translateX(-50%) ;
+    transform:translateX(-20%) ;
     position: relative;
     text-align: center;
-    -webkit-transform:translateX(-50%) ;
-    -moz-transform:translateX(-50%) ;
-    -ms-transform:translateX(-50%) ;
-    -o-transform:translateX(-50%) ;
+    -webkit-transform:translateX(-20%) ;
+    -moz-transform:translateX(-20%) ;
+    -ms-transform:translateX(-20%) ;
+    -o-transform:translateX(-20%) ;
 }
 .content-seo > div {
     margin-bottom:20px;
