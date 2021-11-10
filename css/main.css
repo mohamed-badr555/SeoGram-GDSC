@@ -778,7 +778,7 @@ position: relative;
     background-size: cover;
     background-position: center;
 }
-.adv .row2 {
+.adv .row2 img{
     width:100% !important;
     background-size: cover !important;
     background-position: center !important;
