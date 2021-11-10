@@ -251,9 +251,9 @@ margin-bottom: 5px;
     color:#fff;
 }
 .par{
-    position: absolute;
-    bottom:60px;
-    right: 60px;
+   position: relative;
+    bottom:-120px;
+    right: -80%;
 color:#cccc;
     z-index: 80000000;
 }
