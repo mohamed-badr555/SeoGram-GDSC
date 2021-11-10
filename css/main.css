@@ -304,10 +304,10 @@ color:#cccc;
     transform:translateX(-50%) ;
     position: relative;
     text-align: center;
-    -webkit-transform:translateX(-20%) ;
-    -moz-transform:translateX(-20%) ;
-    -ms-transform:translateX(-20%) ;
-    -o-transform:translateX(-20%) ;
+    -webkit-transform:translateX(-50%) ;
+    -moz-transform:translateX(-50%) ;
+    -ms-transform:translateX(-50%) ;
+    -o-transform:translateX(-50%) ;
 }
 .content-seo > div {
     margin-bottom:20px;
